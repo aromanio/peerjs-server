@@ -1,5 +1,9 @@
 # PeerServer Changelog
 
+### 0.2.10
+
+* Added some more error logging
+
 ### 0.2.6
 
 * Ensure 16 character IDs.
