@@ -1,8 +1,12 @@
 # PeerServer Changelog
 
+### 0.2.11
+
+* Decreased error logging for missing peer event.
+
 ### 0.2.10
 
-* Added some more error logging
+* Added some more error logging.
 
 ### 0.2.6
 
